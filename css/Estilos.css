@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+}
+
+table img {
+  width: 600px;
+  /* Cambia este valor según el tamaño deseado */
+  height: 400px;
+  /* Cambia este valor según el tamaño deseado */
+}
+
+
+ul {
+  list-style-type: none;
+  /* Quitar los puntos de la lista */
+  margin-left: 0;
+}
